@@ -1,0 +1,1 @@
+This lambda listnes to bucket/knowledge with prefix of knowledge and triggers knowledge base to update

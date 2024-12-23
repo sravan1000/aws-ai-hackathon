@@ -1,0 +1,3 @@
+this lambda is used for converting oolio order to natural language and save it as a text file in bucket/data/order-summary-uuid.text
+
+this lambda is listned to a API call which was given for every order completed in svix

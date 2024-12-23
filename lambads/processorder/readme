@@ -1,0 +1,1 @@
+this lambda listnes to bucket/order with prifix order and summaries the order and keeps in bucket/knowledge with summary knowledge-uuid.txt
